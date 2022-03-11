@@ -1,0 +1,11 @@
+/.idea
+/node_modules/
+/.env
+/package-lock.json
+/yarn.lock
+/logs
+*.lock
+yarn-error.log
+yarn.lock
+
+!/**/.gitkeep
